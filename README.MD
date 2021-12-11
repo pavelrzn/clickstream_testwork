@@ -15,10 +15,10 @@
 Произвести рассчеты по конкретному месяцу можно подав функции getPartitionsList, нужный месяц вторым аргументом
 
 #Сборка
-sbt assembly
+    sbt assembly
 
 #Запуск
-Для запуска Main в Idea нужно установить флаг "Include dependencies with Provided scope" в конфигурации запуска
+- Для запуска Main в Idea нужно установить флаг "Include dependencies with Provided scope" в конфигурации запуска
 
 #P.S.
-комментарии  "// ToDo - delete"  остались возле вызовов show(), оставил их для проверки
+- комментарии  "// ToDo - delete"  остались возле вызовов show(), оставил их для проверки
